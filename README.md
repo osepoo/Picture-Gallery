@@ -13,6 +13,6 @@ A simple PHP picture gallery that'll allow you to view, add and delete pictures 
 - MySQL
 - WAMP/XAMPP/LAMP
 ## Getting started
-- Clone this repo to your local machine.
-- I recommend running the code on your text editor
+- Clone this repo to your local machine and run it.
+
 ### Enjoy :)
