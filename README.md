@@ -1,4 +1,6 @@
 # Picture-Gallery
+.by Ghali Muga
+## Description
 A simple PHP picture gallery that'll allow you to view, add and delete pictures for all the united lovers like me.
 ## Screenshot
 - It'll look something like this
